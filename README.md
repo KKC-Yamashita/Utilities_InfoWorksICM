@@ -6,4 +6,4 @@ Before applying the LayerLists in "Theme_LayerList_Sample.icmt", complete the fo
 Use "GSI_remove_ShpPrefix9.py" to remove the first 9 characters from each filename. 
 5. Create a folder named "BackGroundSHP" directly under the model’s local root working directory.
 Save all renamed SHP files into this folder. 
-6. Finally, apply the LayerList "GSI_MAP" in the model.
+6. Finally, apply the LayerList "GSI_MAP" in the InfoWorksICM model.
